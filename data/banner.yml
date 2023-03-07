@@ -1,0 +1,12 @@
+####################### Banner #########################
+style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
+title : "Nagaeki Transcontinental Telecom"
+subtitle: |
+  A <strong>non-profit</strong> network.
+content : |
+  Nagaeki Transcontinental Telecom is a network run by Eki and his friends. We experiment in BGP and promote the development of IPv6.
+button:
+  label : "Get Started"
+  link : "#peering"
+image : "images/index.png"
+

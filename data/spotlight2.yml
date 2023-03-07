@@ -1,0 +1,10 @@
+####################### Spotlight #########################
+style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
+id: "peering-info"
+title : "Peering Info"
+content: |
+  We always announce prefixs via Route Servers. If you would like to privately peer, please email noc@nttele.com .
+button: 
+  label: "PeeringDB"
+  link: "https://www.peeringdb.com/net/32414"
+image: "images/ip.jpg"

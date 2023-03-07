@@ -1,0 +1,10 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+id: "peering"
+title : "Peering"
+content: |
+  We are open in peering. Please see below.
+button: 
+  label: "Learn More"
+  link: "#peering-info"
+image: "images/peering-policy1.png"
