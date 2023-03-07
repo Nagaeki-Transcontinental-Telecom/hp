@@ -2,7 +2,7 @@
 ## Basic Configuration
 ## -----------------------------------------------
 
-title = "Hugo Story"
+title = "Nagaeki Transcontinental Telecom"
 copyright = "{year}"
 
 ## -----------------------------------------------
@@ -37,9 +37,9 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section"]
   favicon = true
 
 [Params.social]
-  github = "https://github.com/caressofsteel/"
+  github = "https://github.com/Nagaeki-Transcontinental-Telecom/"
   twitter = "https://twitter.com/caressofsteel_"
-  email = "caressofsteel@protonmail.com"
+  email = "noc@nttele.com"
   instagram = "https://instagram.com"
   linkedin = "https://linkedin.com"
   telegram = "https://telegram.org"

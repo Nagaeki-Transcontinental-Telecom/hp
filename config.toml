@@ -2,6 +2,7 @@
 ## Basic Configuration
 ## -----------------------------------------------
 
+title = "Nagaeki Transcontinental Telecom"
 theme = "hugo-story"
 
 ## -----------------------------------------------
