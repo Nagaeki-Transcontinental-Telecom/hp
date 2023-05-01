@@ -4,9 +4,9 @@ title : "Nagaeki Transcontinental Telecom"
 subtitle: |
   A <strong>non-profit</strong> network.
 content : |
-  Nagaeki Transcontinental Telecom is a network run by Eki and his friends. We experiment in BGP and promote the development of IPv6.
+  Nagaeki Transcontinental Telecom (AS199683) is a network run by Eki. We experiment in BGP and promote the development of IPv6.
 button:
-  label : "Get Started"
-  link : "#peering"
+  label : "Docs to Get Started"
+  link : "https://docs.nttele.com"
 image : "images/index.png"
 
