@@ -1,7 +1,7 @@
 ﻿#Prefix,ISO 3166-2 Country,ISO 3166-2 Region,City,Postal Code
 2a13:b487:1400::/48,JP,JP-13,Tokyo,,
-2a13:b487:1410::/48,US,US-NV,Las Vegas,,
-2a13:b487:1411::/48,US,US-NY,New York,,
-2a13:b487:1420::/48,DE,DE-HE,Frankfurt,,
-2a13:b487:1430::/48,LU,LU-ME,Roost,,
-2a13:b487:1440::/48,TW,TW-TPE,Taipei,,
+2a13:b487:1401::/48,DE,DE-HE,Frankfurt,,
+2a13:b487:1402::/48,US,US-NV,Las Vegas,,
+2a13:b487:1403::/48,US,US-NY,New York,,
+2a13:b487:1404::/48,LU,LU-ME,Roost,,
+2a13:b487:1405::/48,TW,TW-TPE,Taipei,,
