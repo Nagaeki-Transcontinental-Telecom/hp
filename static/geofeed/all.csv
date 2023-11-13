@@ -1,4 +1,4 @@
-﻿#Prefix,ISO 3166-2 Country,ISO 3166-2 Region,City,Postal Code
+#Prefix,ISO 3166-2 Country,ISO 3166-2 Region,City,Postal Code
 2a13:b487:1400::/48,JP,JP-13,Tokyo,,
 2a13:b487:1401::/48,DE,DE-HE,Frankfurt,,
 2a13:b487:1402::/48,US,US-NV,Las Vegas,,
